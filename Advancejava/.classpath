@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Rays soft/Jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Rays soft/Workspace/advance workspace/DynamicProject/WebContent/WEB-INF/lib/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Rays soft/Workspace/advance workspace/DynamicProject/WebContent/WEB-INF/lib/mchange-commons-java-0.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Rays soft/Workspace/advance workspace/DynamicProject/WebContent/WEB-INF/lib/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
